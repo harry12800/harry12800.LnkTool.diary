@@ -9,8 +9,6 @@
 	</classpathentry>
 	<classpathentry combineaccessrules="false" kind="src" path="/harry12800.j2se"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/harry12800.tools"/>
-	<classpathentry kind="lib" path="lib/DJNativeSwing-SWT.jar"/>
-	<classpathentry kind="lib" path="lib/DJNativeSwing.jar"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/harry12800.LnkTool.core"/>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
