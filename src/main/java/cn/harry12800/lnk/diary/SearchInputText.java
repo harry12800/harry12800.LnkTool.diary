@@ -11,7 +11,7 @@ import java.awt.image.BufferedImage;
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
 
-import cn.harry12800.Lnk.core.util.ImageUtils;
+import cn.harry12800.lnk.core.util.ImageUtils;
 import cn.harry12800.j2se.action.EnterAction;
 import cn.harry12800.j2se.component.InputText;
 
